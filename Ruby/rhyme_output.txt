@@ -1,0 +1,27 @@
+Number of special character ! : 2
+Number of special character # : 1
+Number of special character * : 1
+Number of special character , : 2
+Number of capital B : 1
+Number of capital H : 1
+Number of capital T : 1
+Number of capital Y : 1
+Number of lowercase a : 8
+Number of lowercase b : 3
+Number of lowercase c : 1
+Number of lowercase e : 7
+Number of lowercase f : 1
+Number of lowercase g : 1
+Number of lowercase h : 2
+Number of lowercase i : 2
+Number of lowercase k : 1
+Number of lowercase l : 4
+Number of lowercase n : 1
+Number of lowercase o : 3
+Number of lowercase p : 1
+Number of lowercase r : 3
+Number of lowercase s : 6
+Number of lowercase u : 2
+Number of lowercase v : 1
+Number of lowercase w : 1
+Number of lowercase y : 3
