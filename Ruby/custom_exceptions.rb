@@ -25,7 +25,7 @@ class RaiseErrors
 		y_name = gets.chomp
 	 	raise Errors::Custommodule::CustomError.new("Name cannot be empty!", "Name Empty") if y_name == ""
 	 	#puts "Length is: #{y_name.length}"
-	 	raise Errors::Custommodule::CustomError.new("Name must be atleast of four characters long!", "Name too long") if y_name.length.to_i < 4
+	 	raise Errors::Custommodule::CustomError.new("Name must be atleast four characters long!", "Name too long") if y_name.length.to_i < 4
 	 	puts "Entered name is: #{y_name}"
 
 	rescue => e
